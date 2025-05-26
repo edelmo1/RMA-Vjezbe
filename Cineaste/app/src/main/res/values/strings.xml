@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cineaste</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorites</string>
+    <string name="recent">Recent movies</string>
+    <string name="buttonSend">Send</string>
+    <string name="icon">.</string>
+    <string name="favoritesText">My favorite movies</string>
+    <string name="upcoming">Upcoming movies</string>
+    <string name="upcoming2">Latest movies playing in theatre and streaming platform</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="addFavorite">Dodaj omiljeni</string>
+</resources>
